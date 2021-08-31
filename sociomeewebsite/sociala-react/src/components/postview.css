@@ -1,0 +1,29 @@
+
+.postImg{
+    padding: 22px;
+    height: 500px;
+}
+.card-body.p-0.d-flex {
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.postviewtext{
+    font-family: "Roboto", sans-serif;
+    padding-left: 25px;
+
+}
+.viewinput{
+    padding-bottom: 15px;
+    border: #000;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.viewinput{
+    border: #000;
+}
+.showComments {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+}

@@ -1,0 +1,25 @@
+img.liveimg.img-fluid {
+    padding-top: 20px;
+    
+}
+
+.carousel .slide .legend {
+    position: absolute;
+    bottom: 486px;
+    left: 50%;
+    margin-left: 39%;
+    width: 10%;
+    border-radius: 6px;
+    background: #000;
+    color: #fff;
+    padding: 7px;
+    font-size: 12px;
+    text-align: center;
+    opacity: 0.25;
+    transition: opacity .35s ease-in-out;
+}
+
+.carousel .thumbs-wrapper {
+    margin: -36px !important;
+    overflow: hidden;
+}

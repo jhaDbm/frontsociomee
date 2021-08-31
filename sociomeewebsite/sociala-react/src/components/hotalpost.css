@@ -1,0 +1,54 @@
+
+    .toppost-items {
+        font-size: 25px !important;
+        color: black;
+        width: 100%;
+    }
+
+.toppost-items:hover:before{
+
+    color: #81c14b;
+ font-size: 20px !important;
+ content:"All";
+
+}
+.itemspost { 
+  margin-right: 5%;
+  margin-left: 6%;
+}
+
+.btntop-post{
+    border: 1px solid;
+    padding: 15px;
+    background-color: #81c14b;
+    color: #fff;
+    border-radius: 7px;
+    text-transform: capitalize;
+    
+}
+.btntop-post:hover{
+    background-color: black;
+    color: #fff;
+}
+.emoji-wrap {
+    position: absolute;
+    bottom: 105px;
+    width: 80%;
+    box-shadow: 0 8px 30px rgb(0 0 0 / 20%);
+    width: auto;
+    background-color: #fff;
+    padding: 12px 20px 14px 24px;
+    border-radius: 50px;
+    display: none;
+}
+
+
+
+ 
+
+
+   
+
+   
+   
+

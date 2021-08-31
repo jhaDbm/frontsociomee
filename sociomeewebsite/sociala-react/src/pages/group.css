@@ -1,0 +1,18 @@
+.groupImg{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.videocall{
+    background-color: #81c14b;
+}
+.groupname{
+    margin-right: 49%;
+}
+.following{
+    background-color: #81c14b; 
+}
+.following:hover{
+    background: black;
+}

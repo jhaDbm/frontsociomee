@@ -1,0 +1,23 @@
+.list-group {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    border-radius: 0.25rem;
+    margin-left: 15%;
+}
+.groupimg{
+    height: 32px;
+    width: 32px ;
+    border-radius:50%;
+    object-fit: cover;
+    padding: 0px;
+    margin: 0px;
+}
+.modal-popup-chat .modal-popup-wrap {
+    width: 400px;
+}
+.chatbar{
+    background-color: rgb(215, 221, 221) !important;
+    border-radius: 15px !important;
+}

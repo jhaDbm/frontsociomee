@@ -1,0 +1,30 @@
+.video-img{
+    height: 200px;
+    margin-top: 10%;
+}
+.strems{
+    background-color: #81c14b;
+    color: #ffff;
+    padding: 0px 24px;
+    border: none;
+    border-radius: 13px;
+
+}
+
+.select-set{
+    margin-top:5px
+}
+
+.avtar{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.text-img{
+    font-size: 10px;
+    padding-left: 10px;
+}

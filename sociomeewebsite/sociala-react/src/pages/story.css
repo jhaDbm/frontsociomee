@@ -1,0 +1,9 @@
+.storyImg{
+    height:50px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.storybg{
+    object-fit: cover;
+}

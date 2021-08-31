@@ -1,0 +1,11 @@
+.addfrend{
+    background-color: #81c14b !important;
+}
+
+.addfrend:hover{
+    background-color: #000 !important;
+}
+.imageResponsiv{
+    width: 100%;
+    cursor: pointer;
+}

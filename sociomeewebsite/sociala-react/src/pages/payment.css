@@ -1,0 +1,14 @@
+.card-color{
+    background-color: #81c14b !important;
+    color: #fff;
+}
+.card-color:hover{
+    background-color:#000 !important;
+    color: #fff;
+}
+.bg-mini-gradiant {
+    background: linear-gradient(to right, #81c14b, #81c14b) !important;
+}
+
+
+    

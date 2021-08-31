@@ -1,0 +1,61 @@
+.form-check-input:checked {
+    background-color: #82c24c !important;
+    border-color: #81c14b !important;
+}
+.checkbox-wrap label {
+    padding-left: 34px;
+    font-size: .9625rem;
+    font-weight: 700;
+    line-height: 22px;
+    font-size: 10px;
+    cursor: pointer;
+   
+}
+button, input[type=password], input[type=text], label, select, textarea {
+    font-family: Rajdhani,sans-serif;
+}
+.btn-section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.btn1{
+    padding: 8px 40px;
+    border-radius: 10px;
+    background: #82c24c;
+    border: #81c14b;
+    color: #fff;
+    align-items: center;
+    font-size: 12px !important;
+}
+
+.btn1:hover{
+    background-color: #000;
+    color: #fff;
+}
+.btn2{
+    padding: 8px 40px;
+    border-radius: 10px;
+    background: #fff;
+    border: 1px solid #7a8572;
+    color: rgb(100, 95, 95);
+    align-items: center;
+    margin-left: 20px;
+    font-size: 12px !important;
+    
+}
+.btn2:hover{
+    background-color: #000;
+    color: #fff;
+    
+}
+.btnsend{
+    background: #82c24c;
+    color: #fff;
+    border-radius: 10px !important;
+}
+.btnsend :hover{
+    background: #000;
+    color: #fff;
+    
+}

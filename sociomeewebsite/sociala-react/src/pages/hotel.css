@@ -1,0 +1,16 @@
+.settext{
+    text-align: start;
+    margin-right: -3rem !important;
+}
+.pl-35 {
+    padding-left: 35px;
+    text-align: inherit;
+}
+
+.headding{
+    font-size: 30px;
+    padding: 10px;
+}
+.bg-gold-gradiant {
+    background: linear-gradient(to right, #81c14b, #81c14b) !important;
+}

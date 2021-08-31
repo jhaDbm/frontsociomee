@@ -1,0 +1,12 @@
+
+.card-body.d-flex.pt-0.ps-4.pe-4.pb-0.bor-0 {
+    margin-left: -32px;
+    margin-right: -3px;
+}
+.subtext{
+    padding: 38px;
+}
+p.MuiTypography-root.MuiListItemText-secondary.MuiTypography-body2.MuiTypography-colorTextSecondary.MuiTypography-displayBlock {
+    font-size: 12px !important;
+    font-weight: 700 !important;
+}

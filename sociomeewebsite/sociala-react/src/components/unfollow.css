@@ -1,0 +1,25 @@
+.unfollow{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 21px;
+    padding-top: 0px;
+    border-radius: 10px;
+    
+}
+.unfollow .openModalBtn{
+    color: #000 !important;
+    cursor: pointer;
+    font-size: 15px !important;
+}
+.unfollow .hedding{
+    text-align: center;
+
+}
+.unfollow{
+    width: 89%;
+    border-radius: 10px;
+}

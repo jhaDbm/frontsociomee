@@ -1,0 +1,29 @@
+.createnewpost{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 21px;
+    padding-top: 0px;
+    border-radius: 10px;
+    
+}
+.createnewpost .openModalBtn{
+    color: #000 !important;
+    cursor: pointer;
+    margin: -30px !important;
+    padding: 3px;
+    font-weight: bold !important
+    
+}
+.createnewpost .hedding{
+    color: black;
+    font-size: 15px;
+
+}
+.birthdayImg{
+    width: 89%;
+    border-radius: 10px;
+}

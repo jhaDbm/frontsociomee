@@ -1,0 +1,21 @@
+
+.newcommentssecond{
+    margin-left: 110px !important;
+}
+li.MuiListItem-root.newcommentssecond.MuiListItem-gutters.MuiListItem-alignItemsFlexStart {
+    margin-left: 60px;
+}
+p.MuiTypography-root.MuiListItemText-secondary.MuiTypography-body2.MuiTypography-colorTextSecondary.MuiTypography-displayBlock {
+    margin-bottom: -9px;
+}
+.reply{
+    padding: 10px;
+    font-size: 20px !important;
+}
+.iconscomments{
+    margin-left: 23% !important;
+    margin-right: 23%;
+}
+i.feather-corner-down-right.text-dark.text-grey-900.btn-round-sm.font-lg {
+    margin-left: 18px !important;
+}

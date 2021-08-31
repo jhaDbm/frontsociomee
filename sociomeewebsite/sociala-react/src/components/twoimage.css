@@ -1,0 +1,11 @@
+.twoimg{
+    display: flex;
+    flex-flow: row wrap;
+    border-radius: 10px !important;
+    height: "500",
+    
+}
+img {
+    border-radius: 10px;
+}
+

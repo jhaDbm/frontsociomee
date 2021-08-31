@@ -1,0 +1,104 @@
+.sublogo{
+    height: 17px;
+    margin-right: -8px !important;
+}
+.nav-header.bg-white.shadow-xs.border-0.hedding-set {
+    height: 75px;
+}
+.sublogo1{
+    height: 20px;
+    margin:0px;
+    margin-right: -14px !important;
+}
+
+.prifileImg{
+    width: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.navbarcol {
+    font-size: 20px;
+    color: #fff;
+    top: 0px;
+    position: relative;
+    background: #81c14b !important;
+}
+.nav-caption.li{
+    color: #fff;
+}
+.nav-caption.li:hover{
+    color: #81c14b !important;
+}
+.navbarcolitens{
+    color: #81c14b !important;
+}
+.account{
+    color: #81c14b !important;
+    font-size: large;
+    font-weight: 600;
+}
+.center-menu-icon.active i {
+    color: #81c14b !important;
+    background-color: #d2e3ff !important;
+    border-color: #bcd5fe !important;
+}
+.text-current {
+    color: #81c14b !important;
+}
+.bg-warning {
+    background-color: #24514d !important;
+}
+.text-primary {
+    color: #81c14b !important;
+}
+.bg-primary-gradiant {
+    background: linear-gradient( 
+135deg
+ , #81c14b, #81c14b) !important;
+}
+
+
+@media (min-width: 1200px){
+.middle-sidebar-left {
+    padding-right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1360px !important;
+}}
+.dropdown-menu.p-4.right-0.rounded-xxl.border-0.shadow-lg.notification.show {
+    width: 263px;
+    margin-left: 85%;
+}
+
+.main-content .middle-sidebar-bottom {
+    width: 100%;
+    padding: 2px 0px 4px 0px;
+}
+.scroll-bar {
+    margin-left: 0px;
+    overflow-y: scroll;
+    padding-top: 82px;
+}
+.right-scroll-bar {
+    margin-left: 0px;
+    overflow-y: scroll;
+    padding-top: 83px;
+}
+.totalPost{
+    background-color: #81c14b;
+    color: #fff !important;
+    border-radius: 6px;
+    margin-left: 10% !important;
+    margin-right: 1%;
+    padding: 8px 17px !important;
+}
+.totalfriends{
+    background-color: #81c14b;
+    color: #fff !important;
+    border-radius: 10px;
+    padding: 8px 17px !important;
+}
+.number{
+    font-size: 19px;
+    font-weight: 700;
+}

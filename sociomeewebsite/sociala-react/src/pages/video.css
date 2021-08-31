@@ -1,0 +1,30 @@
+.videoImg{
+    height: 45px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.videoicon{
+    text-align: center;
+}
+.text-value{
+    text-align: justify;
+}
+.videoSection{
+   width: 500px;
+   height: 300px;
+}
+
+.play_button{
+    color: #fff;
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    margin-left: -94px;
+    margin-top: -0px;
+    border-radius: 100%;
+    text-align: center;
+}
+img, svg {
+    vertical-align: middle;
+}

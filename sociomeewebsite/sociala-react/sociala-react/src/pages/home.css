@@ -1,0 +1,23 @@
+.postImage{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+    border: 1px solid;
+    
+}
+@media (min-width: 1400px){
+.middle-sidebar-left {
+    padding-right: 0 !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    max-width: 1243px !important;
+}}
+@media (min-width: 1200px){
+.middle-sidebar-left {
+    padding-right: 0 !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    max-width: 1312px !important;
+}}

@@ -1,0 +1,32 @@
+.popup {
+    width: 218px !important;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 21px;
+    padding-top: 23px;
+    border-radius: 10px;
+    margin-top: -4px;
+    margin-bottom: 8px;
+}
+
+.popup .openModalBtn{
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: #81c14b;
+    color: #fff !important;
+    cursor: pointer;
+}
+.popup .hedding{
+    text-align: center;
+    padding: 10px;
+}
+.birthdayImg{
+    width: 89%;
+    border-radius: 10px;
+}
+

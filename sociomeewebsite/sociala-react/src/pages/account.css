@@ -1,0 +1,22 @@
+.displaybg{
+    background-color: #81c14b;
+    
+    
+}
+
+.bg-current {
+    background-color:#81c14b !important;
+    margin-bottom: 15px;
+    text-align:center;
+    padding-left: 10px;
+}
+.displaybg:hover{
+    background-color: black;
+}
+.form-control:focus {
+    line-height: 50px;
+    height: 50px;
+    font-size: 14px;
+    display: inline-block;
+    border: 2px #eee solid;
+}

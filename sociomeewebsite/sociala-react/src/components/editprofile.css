@@ -1,0 +1,25 @@
+.edidProfile{
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 21px;
+    padding-top: 0px;
+    border-radius: 10px;
+    
+}
+.edidProfile .openModalBtn{
+    color: #000 !important;
+    cursor: pointer;
+    font-size: 15px !important;
+}
+.edidProfile .hedding{
+    text-align: center;
+
+}
+.edidProfile1{
+    width: 118%;
+    border-radius: 10px;
+}

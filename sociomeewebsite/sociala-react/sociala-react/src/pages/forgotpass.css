@@ -1,0 +1,11 @@
+.passhead{
+    font-size: 20px;
+}
+.forgotBtn {
+    background-color: #81c14b !important;
+    color: #fff;
+}
+.forgotBtn:hover{
+    background-color: #000 !important;
+    color: #fff;
+}

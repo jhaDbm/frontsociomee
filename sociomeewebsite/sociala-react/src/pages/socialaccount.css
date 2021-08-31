@@ -1,0 +1,10 @@
+.social{
+    background-color: #81c14b; 
+}
+.social:hover{
+    background-color: black;
+}
+
+.bg-red-gradiant {
+    background: linear-gradient(to right, #81c14b, #82c24c) !important;
+}
